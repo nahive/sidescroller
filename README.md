@@ -1,4 +1,4 @@
-sidescroller
+<div align="center"><img src="http://i.imgur.com/qZvOeck.png" ></div>
 ============
 
 A simple sidescrolling game written in pure java
